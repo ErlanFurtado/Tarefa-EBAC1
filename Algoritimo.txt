@@ -1,0 +1,11 @@
+1- Despertador toca.
+2- Abrir os olhos.
+3- Levantar da cama.
+4- Desligar o despertador.
+5- Ir ao banheiro. 
+7- Abrir o creme dental e colocar na escova (Se tiver Creme dental)
+8- Se não tiver creme dental.
+9- Abrir a dispensa.
+10. Pegar um creme dental novo.
+11. Colocar na escova.
+12. Escovar os dentes.
